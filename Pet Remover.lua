@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/COPvFZAlVF/0"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XScripts2025/GotNothing/refs/heads/main/FinalRemove.lua"))()
